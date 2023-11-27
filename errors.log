@@ -1,0 +1,160 @@
+{
+  message: 'Testing FatalLevel',
+  level: '\x1B[31mfatal\x1B[39m',
+  timestamp: '2023-11-26T23:12:21.390Z'
+}
+{
+  message: 'Testing ErrorLevel',
+  level: '\x1B[33merror\x1B[39m',
+  timestamp: '2023-11-26T23:12:21.391Z'
+}
+{
+  message: 'Testing WarningLevel',
+  level: '\x1B[32mwarning\x1B[39m',
+  timestamp: '2023-11-26T23:12:21.392Z'
+}
+{
+  message: 'Testing InfoLevel',
+  level: '\x1B[34minfo\x1B[39m',
+  timestamp: '2023-11-26T23:12:21.393Z'
+}
+{
+  message: 'Testing HttpLevel',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-11-26T23:12:21.393Z'
+}
+{
+  message: 'Testing DebugLevel',
+  level: '\x1B[90mdebug\x1B[39m',
+  timestamp: '2023-11-26T23:12:21.395Z'
+}
+{
+  message: 'Testing FatalLevel',
+  level: '\x1B[31mfatal\x1B[39m',
+  timestamp: '2023-11-26T23:13:58.204Z'
+}
+{
+  message: 'Testing ErrorLevel',
+  level: '\x1B[33merror\x1B[39m',
+  timestamp: '2023-11-26T23:13:58.205Z'
+}
+{
+  message: 'Testing WarningLevel',
+  level: '\x1B[32mwarning\x1B[39m',
+  timestamp: '2023-11-26T23:13:58.206Z'
+}
+{
+  message: 'Testing InfoLevel',
+  level: '\x1B[34minfo\x1B[39m',
+  timestamp: '2023-11-26T23:13:58.207Z'
+}
+{
+  message: 'Testing HttpLevel',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-11-26T23:13:58.208Z'
+}
+{
+  message: 'Testing DebugLevel',
+  level: '\x1B[90mdebug\x1B[39m',
+  timestamp: '2023-11-26T23:13:58.208Z'
+}
+{
+  message: 'Testing FatalLevel',
+  level: 'fatal',
+  timestamp: '2023-11-26T23:23:09.525Z'
+}
+{
+  message: 'Testing ErrorLevel',
+  level: 'error',
+  timestamp: '2023-11-26T23:23:09.527Z'
+}
+{
+  message: 'Testing WarningLevel',
+  level: 'warning',
+  timestamp: '2023-11-26T23:23:09.528Z'
+}
+{
+  message: 'Testing InfoLevel',
+  level: 'info',
+  timestamp: '2023-11-26T23:23:09.528Z'
+}
+{
+  message: 'Testing HttpLevel',
+  level: 'http',
+  timestamp: '2023-11-26T23:23:09.529Z'
+}
+{
+  message: 'Testing DebugLevel',
+  level: 'debug',
+  timestamp: '2023-11-26T23:23:09.530Z'
+}
+{
+  message: 'Testing FatalLevel',
+  level: 'fatal',
+  timestamp: '2023-11-26T23:24:37.093Z'
+}
+{
+  message: 'Testing ErrorLevel',
+  level: 'error',
+  timestamp: '2023-11-26T23:24:37.095Z'
+}
+{
+  message: 'Testing WarningLevel',
+  level: 'warning',
+  timestamp: '2023-11-26T23:24:37.095Z'
+}
+{
+  message: 'Testing InfoLevel',
+  level: 'info',
+  timestamp: '2023-11-26T23:24:37.095Z'
+}
+{
+  message: 'Testing HttpLevel',
+  level: 'http',
+  timestamp: '2023-11-26T23:24:37.096Z'
+}
+{
+  message: 'Testing DebugLevel',
+  level: 'debug',
+  timestamp: '2023-11-26T23:24:37.096Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T00:24:17.296Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T00:24:28.303Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T00:24:40.822Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T00:27:57.051Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T00:27:58.721Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T00:28:06.336Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T00:28:14.492Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T00:28:15.825Z'
+}
